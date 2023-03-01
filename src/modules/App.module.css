@@ -1,0 +1,97 @@
+.buttonLogin {
+    background-color: #f8f9fb !important;
+    color: #613D2B !important;
+    box-sizing: border-box !important;
+    border: 2px solid #613D2B !important;
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+}
+
+.buttonRegister {
+    background-color: #613D2B !important;
+    color: white !important;
+    box-sizing: border-box !important;
+    border: 2px solid #613D2B !important;
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+}
+
+.buttonSubmit {
+    background-color: #613D2B !important;
+}
+
+.textColor {
+    color: #613D2B;
+}
+
+.textHere {
+    text-decoration: none !important;
+    color: black;
+    font-weight: bold;
+}
+
+.containerJumbotron {
+    position: absolute;
+    width: 958px;
+    height: 400px;
+    left: 196px;
+    top: 120px;
+    background: #DBB699;
+    color: black;
+}
+
+.imgJumbotron {
+    position: absolute;
+    width: 432px;
+    height: 272px;
+    left: 612px;
+    top: 28px;
+}
+
+.waysbeansJumbotron {
+    position: absolute;
+    width: 473px;
+    height: 145px;
+    left: 46px;
+    top: 46px;
+}
+
+.h2Jumbotron {
+    position: absolute;
+    width: 344px;
+    height: 33px;
+    left: 59px;
+    top: 200px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.divJumbotron {
+    position: absolute;
+    width: 469px;
+    height: 50px;
+    left: 59px;
+    top: 269px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.waves {
+    position: absolute;
+    width: 352px;
+    height: 99.38px;
+    left: 500px;
+    top: 269px;
+}
+
+.containerCard {
+    margin-top: 500px;
+    margin-bottom: 50px;
+}
+
+.formControl {
+    border: 2px solid #613D2B !important;
+    background: rgba(97, 61, 43, 0.25) !important;
+}

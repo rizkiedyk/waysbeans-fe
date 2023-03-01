@@ -1,0 +1,28 @@
+{
+    "cardProduct" : [
+        {
+            "img": "/img/product1.png",
+            "title": "RWANDA Beans",
+            "price": "Rp.299.900",
+            "stock": 200
+        },
+        {
+            "img": "/img/product2.png",
+            "title": "ETHIOPHIA Beans",
+            "price": "Rp.109.900",
+            "stock": 99
+        },
+        {
+            "img": "/img/product3.png",
+            "title": "GUETAMALA Beans",
+            "price": "Rp.300.900",
+            "stock": 500
+        },
+        {
+            "img": "/img/product4.png",
+            "title": "NICARAGUA Beans",
+            "price": "Rp.250.900",
+            "stock": 352
+        }
+    ]
+}
